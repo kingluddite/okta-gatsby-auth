@@ -13,8 +13,9 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
   },
   "dependencies": {
-    "@okta/okta-react": "^1.2.0",
+    "@okta/okta-signin-widget": "^2.16.0",
     "gatsby": "^2.1.19",
+    "gatsby-cli": "^2.4.12",
     "react": "^16.8.3",
     "react-dom": "^16.8.3"
   },
